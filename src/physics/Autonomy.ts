@@ -20,7 +20,7 @@ export function calcularAutonomia(
 
 ):ResultadoBateria{
 
-    const masaTotal = vehiculo.masa + pesoExtra;
+    
 
     const consumoBase =
         vehiculo.bateria /

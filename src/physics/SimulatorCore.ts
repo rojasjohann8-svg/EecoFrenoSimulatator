@@ -36,7 +36,7 @@ export function simularSistema(
 
     pesoCarga: number,
 
-    posicionCarga: string,
+    _posicionCarga: string,
 
     vehiculo: VehicleSpecs
 
